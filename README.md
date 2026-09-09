@@ -22,7 +22,7 @@
 克隆项目后，执行以下命令安装依赖：
 ```bash
 # 克隆项目
-git clone https://github.com/gusaiworld/DiffSynth-Studio.git
+git clone https://github.com/gusaiworld/demoire-Edit.git
 
 
 # 安装依赖
@@ -35,7 +35,7 @@ pip install -e .
 模型地址| [网盘链接:  提取码: cgj6](https://pan.baidu.com/s/1pVkoZRCxH4Z8COWaLttwzw?pwd=cgj6) |
 #### 图像去摩尔纹
 ```bash
-python inference_edit.py 
+python single_image_inference/infer.py 
 ```
 
 ## 📊 效果展示
